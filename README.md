@@ -1,0 +1,2 @@
+# NoMoreEdge
+Deletes Microsoft Edge
